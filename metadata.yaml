@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '834'
     url: http://www.gutenberg.org/2009/agents/834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42081#The-Diary-of-John-Evelyn-Volume-II--of-2-
 gutenberg_issued: '2013-02-12'
 gutenberg_type: Text
 identifiers:
