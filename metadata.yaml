@@ -1,0 +1,36 @@
+_repo: The-Diary-of-John-Evelyn-Volume-II--of-2-_42081
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42081-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+  editor:
+    agent_name: Bray, William
+    birthdate: 1736
+    deathdate: 1832
+    gutenberg_agent_id: '834'
+    url: http://www.gutenberg.org/2009/agents/834
+description: ''
+gutenberg_issued: '2013-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Stuarts, 1603-1714'
+- !lcsh 'Great Britain -- Social life and customs -- Early works to 1800'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
+- !lcsh 'Evelyn, John, 1620-1706 -- Diaries'
+title: The Diary of John Evelyn (Volume 2 of 2)
+url: http://www.gutenberg.org/ebooks/42081
